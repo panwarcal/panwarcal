@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @panwarcal 🧑‍🌾
-- 👀 I’m interested in building Drones and Cafe Racer 🏍️
+- 👀 I’m interested in building Drones 🛩️ and Cafe Racer 🏍️
 - 🌱 I’m currently learning Deep Learning 🧠
 - 💞️ I’m looking to collaborate on Autonomous Drones 🤖
 - 📫 How to reach me 📫: panwararpit04@gmail.com 🇮🇳
