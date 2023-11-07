@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arpit Panwar 🧑‍🌾
-- 👀 I’m interested in Data Analytics 🧑‍💻 , building Drones 🛩️ and Cafe Racer 🏍️
+- 👀 I’m interested in Data Analytics 🧑‍💻 , working on Drones 🛩️ and building Cafe Racer 🏍️
 - 🌱 I’m currently learning Machine Learning 🧠
 - 💞️ I’m looking to collaborate on Autonomous Drones 🤖
 - 📫 How to reach me panwararpit04@gmail.com 🇮🇳
