@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arpit Panwar 🧑‍🌾
-- 👀 I’m working in Industrial Automation 🧑‍💻 , working on Drones 🛩️ and building Cafe Racer 🏍️
+- 👀 I’m working in Industrial Automation Field 🧑‍💻 , tinkering on Drones 🛩️ and building Cafe Racer 🏍️
 - 🌱 I’m currently learning Internet of Things 🧠
 - 💞️ I’m looking to collaborate on Autonomous Drones 🤖
 - 📫 How to reach me panwararpit04@gmail.com 🇮🇳
